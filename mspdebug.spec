@@ -33,3 +33,10 @@ disassembly and reverse engineering.
 %{_bindir}/mspdebug
 %{_mandir}/man1/mspdebug.1*
 %{_libdir}/%{name}/*.ihex
+
+
+%changelog
+* Fri Nov 11 2011 Alexander Khrukin <akhrukin@mandriva.org> 0.18-1
++ Revision: 729963
+- imported package mspdebug
+
