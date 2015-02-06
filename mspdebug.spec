@@ -1,7 +1,7 @@
 Summary:	Debugger and gdb proxy for MSP430 MCUs
 Name:		mspdebug
 Version:	0.18
-Release:	1
+Release:	2
 License:	GPLv2+
 Group:		Development/Other
 Url:		http://mspdebug.sourceforge.net/
