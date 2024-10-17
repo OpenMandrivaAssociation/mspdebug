@@ -4,7 +4,7 @@ Version:	0.23
 Release:	1
 License:	GPLv2+
 Group:		Development/Other
-Url:		http://mspdebug.sourceforge.net/
+Url:		https://mspdebug.sourceforge.net/
 Source0:	https://downloads.sourceforge.net/project/mspdebug/mspdebug-%{version}.tar.gz
 BuildRequires:	readline-devel
 BuildRequires:	pkgconfig(libusb)
